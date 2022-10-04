@@ -14,3 +14,6 @@ console.log({
     pid,
     input
 })
+
+console.log(input.value);
+console.log(document.querySelector('input').value);
