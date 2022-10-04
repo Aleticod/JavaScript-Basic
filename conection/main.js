@@ -1,0 +1,1 @@
+console.log('Esto es desde main.js');
